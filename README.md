@@ -19,9 +19,11 @@ Git.xmind
 
 ECMAScript6.xmind
 
+requirejs.xmind
+
 __proto__与prototype.xmind
 
 高性能javascript.xmind
 
 ----------
-本目录更新时间：Mon Aug 08 2016 14:56:42 GMT+0800 (中国标准时间)
+本目录更新时间：Mon Aug 08 2016 18:36:35 GMT+0800 (中国标准时间)
