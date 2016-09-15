@@ -1,6 +1,6 @@
 var fs=require('fs');
 var fsi = require('fs-filesysteminfo');
-var rootDirs=['git','javascript'];
+var rootDirs=['git','javascript','设计模式'];
 var bookItems=[];
 var tempStr='';
 var dtNow=new Date();

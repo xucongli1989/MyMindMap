@@ -25,5 +25,9 @@ __proto__与prototype.xmind
 
 高性能javascript.xmind
 
+## 设计模式 ##
+
+23种设计模式.xmind
+
 ----------
-本目录更新时间：Thu Sep 15 2016 10:25:06 GMT+0800 (中国标准时间)
+本目录更新时间：Thu Sep 15 2016 10:28:49 GMT+0800 (中国标准时间)
