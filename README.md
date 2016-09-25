@@ -13,23 +13,37 @@
 
 ## git ##
 
+Git.jpg
+
 Git.xmind
 
 ## javascript ##
 
+ECMAScript 6.jpg
+
 ECMAScript6.xmind
+
+requirejs.jpg
 
 requirejs.xmind
 
+__proto__与prototype.jpg
+
 __proto__与prototype.xmind
+
+高性能javascript.jpg
 
 高性能javascript.xmind
 
 ## 设计模式 ##
 
+23种设计模式.jpg
+
 23种设计模式.xmind
+
+设计原则.jpg
 
 设计原则.xmind
 
 ----------
-本目录更新时间：Tue Sep 20 2016 21:58:07 GMT+0800 (中国标准时间)
+本目录更新时间：Sun Sep 25 2016 15:02:54 GMT+0800 (中国标准时间)
