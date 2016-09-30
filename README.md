@@ -17,6 +17,8 @@ Git.jpg
 
 Git.xmind
 
+分支管理策略.png
+
 分支管理策略.svg
 
 ## javascript ##
@@ -48,4 +50,4 @@ __proto__与prototype.xmind
 设计原则.xmind
 
 ----------
-本目录更新时间：Fri Sep 30 2016 10:08:28 GMT+0800 (中国标准时间)
+本目录更新时间：Fri Sep 30 2016 10:12:20 GMT+0800 (中国标准时间)
