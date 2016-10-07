@@ -31,6 +31,10 @@ requirejs.jpg
 
 requirejs.xmind
 
+TypeScript.jpg
+
+TypeScript.xmind
+
 __proto__与prototype.jpg
 
 __proto__与prototype.xmind
@@ -50,4 +54,4 @@ __proto__与prototype.xmind
 设计原则.xmind
 
 ----------
-本目录更新时间：Fri Sep 30 2016 10:12:20 GMT+0800 (中国标准时间)
+本目录更新时间：Fri Oct 07 2016 09:36:04 GMT+0800 (中国标准时间)
